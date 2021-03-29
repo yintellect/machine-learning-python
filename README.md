@@ -18,7 +18,7 @@ Reference books:
 1. Regression on California Test Scores
 2. Classification on red and white wine characteristics
 
-## [Unsupervised Learning](https://github.com/YiAlpha/machine-learning-python/blob/main/2.%20Unsupervised%20Learning%20on%20Wine%20Quality%20Dataset.ipynb)
+## [Unsupervised Learning](https://github.com/YiAlpha/machine-learning-python/blob/main/2.%20Unsupervised%20Learning.ipynb)
 
 1. K Means Cluster
 2. Hierarchical Cluster Analysis
@@ -31,7 +31,7 @@ Reference books:
 3. Run three models and Select
 4. Inspect all models by visualizing the coefficients
 
-## [Neural Network](https://github.com/YiAlpha/machine-learning-python/blob/main/4.%20Neural%20Network%20using%20Keras.ipynb) 
+## [Neural Network](https://github.com/YiAlpha/machine-learning-python/blob/main/4.%20Neural%20Network%20using%20Keras.ipynb)
 
 1. Run a multilayer perceptron with two hidden layers 
 2. selecting the number of hidden units using `GridSearchCV` and evaluation on a test-set. 
