@@ -1,5 +1,7 @@
 # Machine Learning Exploration
 
+More tutorials can be found [here](https://yidatadive.com/docs/visualizationr/)
+
 Survey a list of popular machine learning models and compute them with python.
 
 Reference books:
